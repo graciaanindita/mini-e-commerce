@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/layouting_dasar.dart';
 
 void main() {  
-  runApp(const MyApp());
+  runApp(const LayoutingDasar());
 }   
 
 class MyApp extends StatelessWidget {
